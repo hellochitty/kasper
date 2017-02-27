@@ -233,7 +233,9 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    /*color: #4A4A4A;*/
+    color: #000000;
+    font-weight: bold;
     transition: color ease 0.3s;
 }
 
