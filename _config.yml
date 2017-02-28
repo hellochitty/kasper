@@ -1,6 +1,6 @@
 name: Noob to Expert
 description: Learning to Code
-meta_description: "Started at the bottom, now we here (still at the bottom)"
+meta_description: "Started at the bottom, now we (still) here (at the bottom)"
 
 markdown: kramdown
 highlighter: pygments
