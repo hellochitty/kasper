@@ -12,5 +12,5 @@ google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'www.noob.expert'
+url:            'http://www.noob.expert'
 author:         'Chithra Venkatesan'
