@@ -9,11 +9,11 @@ Week two was amazing. Misogyny and linked lists (not related) were the main topi
 
 <b>Misogynist, or Twit?</b><br>
 Nothing makes me more angry than someone talking down to me, especially so when we are peers. One of my week two partners was interesting. I'm not sure how it's possible, but almost EVERY sentence out of his mouth had condescending tone. From chastising me for using "profanity" to the time I came up with a better solution than his, and he remarked "Guess you outsmarted me," I found myself constantly trying to ignore the things he said.
-<br>
+
 In light of Susan Fowler's serious gender bias issues at Uber, I've found myself wondering if somewhere down the line, I'd have a similar experience too. To date, my direct brushes with sexism were mostly in some of the way women are treated in Indian culture (i.e sayings like the loosely translated: 'women are lost at sea until they are married'). However, I can't recall a time where I noticed a sexist remark or action being made towards me in the workplace. Maybe I didn't actually experience any of these instances, but more than likely, I either did and forgot or I did and couldn't recognize it. 
-<br>
+
 So as I approach the software engineering discipline, I can't help but approach with some hesitance. I constantly wonder if I'll encounter complete arseholes at my future job. I theorize about how I would handle it. Who would I report it to? Will I have a female mentor/guide to help me navigate? Is there going to be a women's interest group? What if it happened in the first few days, who would I trust to help me? Is HR going to shoo me away?
-<br>
+
 I'll give this week's tool-bag the benefit of the doubt and just assume that he's just a socially awkward twit, and is blissfully unaware of how others perceive him. But I still wonder, did he make those comments because I am a woman and he perceives me to be lesser or is this how he always is? International Women's Day also happened to be this week, with made my hyper-vigilant about this stuff. Maybe I'm just being too sensitive? 
 
 <b>OMG Linked Lists <3</b><br>
@@ -21,7 +21,7 @@ The week started out somewhat crappy, but once Friday's Linked Lists hit, I coul
 
 <b>Weekly Favs</b><br>
 One of the most valuable things you can do is to keep track of what excites you, what motivates you, and what gives you through-the-roof happiness. If we all paid more attention to the things that bring us joy, maybe we'd be able to experience it more. I think if I had done this throughout college, I would have found my way to a major I was really connected to. But alas, we cannot turn back time, so instead, I'd like to keep track of what I liked doing this week. 
-<br>
+
 I LOVED linked lists (obvs), and traversing trees with DFS and BFS(ugh so fun). Determining time-complexity was slightly challenging, but I enjoyed it anyway. I can't wait to spend more time on it and get even better. I also LOVED working with some of the amazing pairs I got this week. Spending all day with someone who is respectful, matches my level of enthusiasm, and is adequately prepared, makes pair programming SO FUN and SO PRODUCTIVE. I couldn't help but wonder if pair-programming concepts could be applied in non-programming workplaces too. I'll explore that once I'm out of here. 
 
 
