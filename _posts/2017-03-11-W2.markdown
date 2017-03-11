@@ -1,0 +1,31 @@
+layout: post
+title:  "Week 2: Misogyny and Linked Lists"
+date:   2017-03-11 8:00:01
+categories: updates
+---
+
+Week two was amazing. Misogyny and linked lists (not related) were the main topics of my thoughts this week.
+
+<b>Misogynist, or Twit?</b><br>
+Nothing makes me more angry than someone talking down to me, especially so when we are peers. One of my week two partners was interesting. I'm not sure how it's possible, but almost EVERY sentence out of his mouth had condescending tone. From chastising me for using "profanity" to the time I came up with a better solution than his, and he remarked "Guess you outsmarted me," I found myself constantly trying to ignore the things he said.
+<br>
+In light of Susan Fowler's serious gender bias issues at Uber, I've found myself wondering if somewhere down the line, I'd have a similar experience too. To date, my direct brushes with sexism were mostly in some of the way women are treated in Indian culture (i.e sayings like the loosely translated: 'women are lost at sea until they are married'). However, I can't recall a time where I noticed a sexist remark or action being made towards me in the workplace. Maybe I didn't actually experience any of these instances, but more than likely, I either did and forgot or I did and couldn't recognize it. 
+<br>
+So as I approach the software engineering discipline, I can't help but approach with some hesitance. I constantly wonder if I'll encounter complete arseholes at my future job. I theorize about how I would handle it. Who would I report it to? Will I have a female mentor/guide to help me navigate? Is there going to be a women's interest group? What if it happened in the first few days, who would I trust to help me? Is HR going to shoo me away?
+<br>
+I'll give this week's tool-bag the benefit of the doubt and just assume that he's just a socially awkward twit, and is blissfully unaware of how others perceive him. But I still wonder, did he make those comments because I am a woman and he perceives me to be lesser or is this how he always is? International Women's Day also happened to be this week, with made my hyper-vigilant about this stuff. Maybe I'm just being too sensitive? 
+
+<b>OMG Linked Lists <3</b><br>
+The week started out somewhat crappy, but once Friday's Linked Lists hit, I could hardly remember my anger from earlier in the week. Linked Lists are so cute and simple, and yet so useful. Friday was the HIGHLIGHT of the past two weeks as we worked our way up from creating methods to accurately hash arrays, to building linked lists, to building hashmaps, and finally building an LRU Cache based on everything we had created earlier that day. My partner and I were hardcore jiving- high-fiving and omg-ing our way through the day's project. Our neighbors exclaimed that it sounded like we were watching a sports match. The incredible feeling of having an idea, sketching it on paper, talking it over with my partner, and then watching it work on the screen reminded me of why I wanted to do this in the first place.
+
+<b>Weekly Favs</b><br>
+One of the most valuable things you can do is to keep track of what excites you, what motivates you, and what gives you through-the-roof happiness. If we all paid more attention to the things that bring us joy, maybe we'd be able to experience it more. I think if I had done this throughout college, I would have found my way to a major I was really connected to. But alas, we cannot turn back time, so instead, I'd like to keep track of what I liked doing this week. 
+<br>
+I LOVED linked lists (obvs), and traversing trees with DFS and BFS(ugh so fun). Determining time-complexity was slightly challenging, but I enjoyed it anyway. I can't wait to spend more time on it and get even better. I also LOVED working with some of the amazing pairs I got this week. Spending all day with someone who is respectful, matches my level of enthusiasm, and is adequately prepared, makes pair programming SO FUN and SO PRODUCTIVE. I couldn't help but wonder if pair-programming concepts could be applied in non-programming workplaces too. I'll explore that once I'm out of here. 
+
+
+<b>Weekly Thanks</b><br>
+This weeks thanks is to my brother, Arun! He introduced me to my new love, Linked Lists, a few months ago in Cancun. Since then, they'd come up in my head from time to time, even in unlikely places like the gym hot tub. This week when we encountered linked lists in class, I felt more prepared than ever to handle them. In Cancun, Arun had me thinking about how to find cycles in a singly-linked list and how to reverse them, when I had NO handle on how I would even ACTUALLY implement a node. Think about it like someone teaching you create a recipe for flan without you knowing where to acquire dairy products. Everything makes a bit of sense, but the implementation seems out of reach. Over the past two weeks, I've acquired the tools to make all of this absolutely real. So thanks Arun, for an early-introduction to a now close friend. Can't wait to deepen  my relationship with these lil ones.
+
+<b>Summary</b><br>
+This week had me wondering about misogyny in the workplace- more specifically, how to recognize it, how to control it, how to escalate it, and how to prevent it. I don't really have answers yet, but the reality is that I need to be prepared for what will (unfortunately) likely to come next. This week also brought me new levels of confidence and happiness. Each week, I find more and more concepts to be excited about. I've experienced less self-doubt this week, and I've tried to block out comparisons to others. Next week is going to be awesome, I'm sure of it.
