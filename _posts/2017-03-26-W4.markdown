@@ -8,25 +8,18 @@ categories: updates
 Week 4 was good. Not great, but not terrible. We used rails to create apps, and learned authentication to protect our users' info! This week was the most exhausting of all, but I'm really excited to build my own stuff.
 
 <b>Motivation</b><br>
-
 <ul>
 <li><b>Gamify Budgeting</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
-
 </ul>
 <br>
 <b>Money</b><br>
-
 <ul>
 <li><b>Gamify Budgeting</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
 <li><b>Trader Joe's</b> This is self explanatory, but I've ditched the ole whole paycheck. I get almost everything from Trader Joe's. It helps that there's one ridiculously close to app academy.</li>
 li><b>Take Advantage of Free Stuff</b> My gym has free razors and great hair shampoo and conditioner. I do not buy any of these three items anymore- not even as backup.</li>
 </ul>
-
-
 <br>
-
 <b>Health & Wellness</b><br>
-<br>
 <ul>
 <li><b>Eating</b> I stick to a few rules to keep my eating in check. This is CRUCIAL for me because I'm at a desk ALL day, and I'm on a budget.
 	<ol>
