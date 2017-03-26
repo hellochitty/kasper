@@ -1,8 +1,35 @@
 ---
 layout: post
 title:  "Week 4: One Month Down- Things I've Learned"
-date:   2017-03-16 00:00:01
+date:   2017-03-26 00:00:01
 categories: updates
 ---
 
 Week 4 was good. Not great, but not terrible. We used rails to create apps, and learned authentication to protect our users' info! This week was the most exhausting of all, but I'm really excited to build my own stuff.
+
+<b>Money</b><br>
+
+<ul>
+<li><b>Sticking to a budget is easy!</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. Ironically, having no income stream has actually this path very clear. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
+<li><b>Trader Joe's</b>I'm a trader joe's addict now. Besides it being cheap, they have a good selection of vegetables</li>
+</ul>
+
+
+<br>
+
+
+<b>Health & Wellness</b><br>
+<br>
+<ul>
+<li><b>Eating</b>I stick to a few rules to keep my eating in check. This is CRUCIAL for me because I'm at a desk ALL day, and I'm on a budget.
+	<ol>
+      <li>Eating out is reserved for meeting with people or celebrating something.</li>
+      <li>Don't buy anything you have to cut up.</li>
+      <li>Always pack lunch with the following: 1 portion carb (usually pasta /mashed cauliflower), 1 portion vegetables (I usually do a handful of raw spinach), 2 hard-boiled eggs </li>
+      <li>Pack a snack. My favourites are blood oranges and nuts.</li>
+      <li>Start the day with lemon water, and eat breakfast</li>
+    </ol> 
+</li>
+<li><b>Trader Joe's</b>I'm a trader joe's addict now. Besides it being cheap, they have a good selection of vegetables</li>
+</ul>
+
