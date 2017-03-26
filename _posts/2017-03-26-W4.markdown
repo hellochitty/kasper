@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 4: One Month Down- Things I've Learned"
+date:   2017-03-16 00:00:01
+categories: updates
+---
+
+Week 4 was good. Not great, but not terrible. We used rails to create apps, and learned authentication to protect our users' info! This week was the most exhausting of all, but I'm really excited to build my own stuff.
