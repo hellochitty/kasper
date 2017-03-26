@@ -7,29 +7,38 @@ categories: updates
 
 Week 4 was good. Not great, but not terrible. We used rails to create apps, and learned authentication to protect our users' info! This week was the most exhausting of all, but I'm really excited to build my own stuff.
 
+<b>Motivation</b><br>
+
+<ul>
+<li><b>Gamify Budgeting</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
+
+</ul>
+<br>
 <b>Money</b><br>
 
 <ul>
-<li><b>Sticking to a budget is easy!</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. Ironically, having no income stream has actually this path very clear. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
-<li><b>Trader Joe's</b>I'm a trader joe's addict now. Besides it being cheap, they have a good selection of vegetables</li>
+<li><b>Gamify Budgeting</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
+<li><b>Trader Joe's</b> This is self explanatory, but I've ditched the ole whole paycheck. I get almost everything from Trader Joe's. It helps that there's one ridiculously close to app academy.</li>
+li><b>Take Advantage of Free Stuff</b> My gym has free razors and great hair shampoo and conditioner. I do not buy any of these three items anymore- not even as backup.</li>
 </ul>
 
 
 <br>
 
-
 <b>Health & Wellness</b><br>
 <br>
 <ul>
-<li><b>Eating</b>I stick to a few rules to keep my eating in check. This is CRUCIAL for me because I'm at a desk ALL day, and I'm on a budget.
+<li><b>Eating</b> I stick to a few rules to keep my eating in check. This is CRUCIAL for me because I'm at a desk ALL day, and I'm on a budget.
 	<ol>
       <li>Eating out is reserved for meeting with people or celebrating something.</li>
-      <li>Don't buy anything you have to cut up.</li>
-      <li>Always pack lunch with the following: 1 portion carb (usually pasta /mashed cauliflower), 1 portion vegetables (I usually do a handful of raw spinach), 2 hard-boiled eggs </li>
+      <li>Don't buy anything you have to cut up (goodbye garlic and onion).</li>
+      <li>Always pack lunch. Stick to simple things. I eat the following: 1 portion carb (usually pasta /mashed cauliflower), 1 portion vegetables (I usually do a handful of raw spinach), 2 hard-boiled eggs </li>
       <li>Pack a snack. My favourites are blood oranges and nuts.</li>
-      <li>Start the day with lemon water, and eat breakfast</li>
+      <li>Start the day with lemon water, and eat breakfast.</li>
+      <li>Don't eat until you're hungry enough to reach for something not tasty- aka steamed kale. Eating for anxiety or boredom is a strict no-no (that I sometimes break lulz.</li>
     </ol> 
 </li>
-<li><b>Trader Joe's</b>I'm a trader joe's addict now. Besides it being cheap, they have a good selection of vegetables</li>
+<li><b>The Gym</b> Spending money on a gym membership seems like a frivolous expense, but it has been so important for my mental/physical well-being. I can only fit in two classes with my current schedule, but I try and fit in at least 3 more hot-tub/sauna sessions otherwise. They are a GREAT reward at the end of the day, and the drive to get to the gym before it closes makes me motivated to finish homework quickly.</li>
+<li><b>Sleep</b> This is a GAME CHANGER and a NO BRAINER, but somehow, sleep is always overlooked. Most of the partners that I had who were functioning slowly were sleep deprived. Getting 4-6 hours of sleep EVERY night is not a badge of honor. It means you are doing something wrong.</li>
 </ul>
 
