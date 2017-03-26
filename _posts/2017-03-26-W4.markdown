@@ -9,7 +9,8 @@ Week 4 was good. Not great, but not terrible. We used rails to create apps, and 
 
 <b>Motivation</b><br>
 <ul>
-<li><b>Gamify Budgeting</b> I've always considered budgeting to be one of my most hated tasks. Every purchase causes anxiety, and seeing my monthly credit card bill always makes me feel terrible. I've FINALLY figured out a way to combat this. I set a monthly budget for myself and use a budgeting app that splits my budget over the days in the month and gives me a budget for each day. Watching the daily budget rise as I save money each day has become a game!</li>
+<li><b>Take Notes</b> If you're at a loss for what to do next, take stock of the things you do in your day to day. For example, most of the people I follow on instagram are hand-letterers, graphic designers, people who make pretty food, and dancers. I often catch myself wishing I was more like them. These are the feelings to really note down and do something about. With the internet, there is inspiration everywhere, you just have to choose what you're going to do with it However, if your instagram is all a bunch of cute doggies, I don't know what to tell you.</li>
+li><b>Take Notes</b> If you're at a loss for what to do next, take stock of the things you do in your day to day. For example, most of the people I follow on instagram are hand-letterers, people who make pretty food, and dancers. I often catch myself wishing I was more like them. These are the feelings to really note down and do something about. However, if your instagram is all a bunch of cute doggies, I don't know what to tell you.</li>
 </ul>
 <br>
 <b>Money</b><br>
@@ -34,4 +35,7 @@ li><b>Take Advantage of Free Stuff</b> My gym has free razors and great hair sha
 <li><b>The Gym</b> Spending money on a gym membership seems like a frivolous expense, but it has been so important for my mental/physical well-being. I can only fit in two classes with my current schedule, but I try and fit in at least 3 more hot-tub/sauna sessions otherwise. They are a GREAT reward at the end of the day, and the drive to get to the gym before it closes makes me motivated to finish homework quickly.</li>
 <li><b>Sleep</b> This is a GAME CHANGER and a NO BRAINER, but somehow, sleep is always overlooked. Most of the partners that I had who were functioning slowly were sleep deprived. Getting 4-6 hours of sleep EVERY night is not a badge of honor. It means you are doing something wrong.</li>
 </ul>
+
+<b>Thanks</b>
+
 
