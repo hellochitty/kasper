@@ -7,18 +7,23 @@ categories: updates
 
 Week 5 was meh. Our fourth assessment caused panic with everyone, we started javascript, and I've become more nervous about getting a job after this. Generally, I've been doing a LOT of thinking. 
 
+<b> Panic </b><br>
 It all started off in a panic. I was ready for our fifth assessment after studying almost ALL weekend for it. Some unexpected curve balls caused me to PANIC at 30 minutes into the test. Thankfully, a TA came over and resolved what I thought was a catastrophic issue, and I was able to finish well before the deadline. PHEW. It wasn't over though. The student next to me was struggling. I could see the errors on his screen after I finished, and I wanted to help him so badly. There's something deeply saddening about seeing someone in pain and not being able to help them. 
 
 By the end of the day, a few students had unfortunately failed out. It was gut wrenching to see. I cannot imagine how much everyone had to give up to be here, and after 4 weeks of studying and 3 additional weeks of prepwork, they were told to leave. Everyone was sad that day. It's hard to see people go. I do hope that whatever desire caused these students to uproot their lives and try something new persists, and continues to fuel them on their paths moving forward. 
 
 I'm not sure if it was the rough start, but I feel like I kind of moved through the week in kind of a daze. We started learning javascript and I kept wondering why we didn't just do EVERYTHING in javascript in the first place. Ruby/Rails make it SUPER easy to get an app off the ground, but it seems like a tall order to try and master two languages in 12 weeks. In fact, some of the graduates I talked to said they hadn't used Ruby after finishing their final projects. 
 
+<b> Anxiety </b><br>
 I also started thinking about the getting a job after this. It's TERRIFYING, quite frankly. I keep trying to assure myself that I'll be fine. "You went to a good school, you have great work experience, and you're doing this with a PURPOSE." It's all reassuring for a little bit, until I realize that I have NO CS degree, and worse, at the end of 12 weeks, will only have a limited amount of experience with all of this. There are so many coding bootcamps these days, and so many cohorts of enthusiastic, bright people. Not to mention, I will have to reach out to EVERYONE I know to ask for referrals, help, advice, etc. I will be INCREDIBLY far out of my comfort zone in just a few, short weeks. 
 
 These are certainly symptoms of looking too far in the future. Anxiety comes from thinking about the future, and regret comes from dwelling in the past. I'm trying to center myself right here in the present, but it's been difficult. 
 
+<b> Fear </b><br>
+I've also been shielding aspects of my life from fellow students. I haven't been forthcoming about where I live or even what gym I go to. A lot of people have insane commutes, and others have taken loans to be here, and I feel guilty about what I perceive are luxuries that I'm able to afford (not that I live extravagantly by any means). Thankfully, I confided in a another student who told me to embrace what I have. "You've earned this," she said. "No one will judge you because they'll understand that you worked for this." I'm still afraid of being judged. Since when has what other people thought of me affected the way I present and perceive myself? I thought I was over this.
+
 <b> Thanks </b><br>
 This week's thanks is to so many of my friends out there, the people who've checked-in, the people who've just said hi, the people who've wished me luck, and the people who urge me to keep going. I've often felt alone throughout this process, but everyone is quick to remind me that I'm not.
 
-<b> Summary </b><br>
+<b> Summary </b><br>	
 Too much goddamn extraneous thinking this week. I have to keep moving forward. Right foot, left foot, right foot, left foot...
