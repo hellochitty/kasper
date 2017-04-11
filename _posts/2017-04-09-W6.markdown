@@ -5,6 +5,24 @@ date:   2017-04-09 00:00:01
 categories: updates
 ---
 
-I can't believe it has been 6 WHOLE weeks since I started all of this. I'm HALF way through. It's actually kind of insane if I sit down and think about it.
+I can't believe it has been 6 WHOLE weeks since I started all of this. I'm HALF way through. It's actually kind of insane.
 
-<b> Highlights </b><br>
+<b> Javascript </b><br>
+I actually kind of like javascript. Last week I wasn't sure about learning two different languages in 12 weeks, and while I think that I will not master either language in this time, I do think it was SUPER valuable to compare and contrast them. Over the weekend I did some sorting and searching algorithms in both javascript and ruby. Although the algorithms were faster to write in ruby (things just happen in more predictable ways, and it's altogether faster without all the semi-colons), I still enjoyed writing them in javascript. Who knew!
+
+<b> React </b><br>
+We ramped up SUPER QUICKLY to react within a few days. We did jquery for 3 days, a day of low level DOM manipulation, and then BAM... REACT. TBH that was kind of irritating. I was really looking towards learning react, but going between jquery and the DOM manipulation and THEN getting to react was really confusing. The homework for the weekend then incorporated redux, at which point I was pretty damn confused. 
+
+<b> Thoughts </b><br>
+Through this, one of the most important things I've learned is how much you can do in a few weeks, but more so how much you can learn if you focus on just one thing. This weekend, I tried to plan a few social activities to see some friends, but as Friday hit, I was starting to feel anxiety over all of the planning in addition to all of the homework I needed to get done. And then I thought about laundry, and cleaning my apartment, and meal prepping, and washing my hair. Anxiety city. 
+
+Thinking back, it doesn't surprise me at all that I never got done as much as I wanted to. I've always been trying to do too much, in weeks before I started this, I could do all the following in a single week: read a book, start a few podcasts, do some handlettering, experiment with watercolors, run, bike, lift, play tennis, watch tv, hangout with friends, and cook. While doing all of this, I also used to think about all the ADDITIONAL things I wanted to do: learn to dance hiphop, do bhangra, train for an ironman, lose weight (lulz), develop a better relationship with food, run a fast 5K, practice logo design, learn color theory, take a weaving class, finish sewing my jacket design, redesign app layouts, volunteer, pick up the violin again, mentors kids, etc. The list could go on forever.
+
+I haven't yet figured out what's best. It's really amazing to be able to learn and try new things, but there's also a deep satisfaction in getting good at something. The only thing that is for sure is that I must be VERY careful with my time. There are so many things I want to do and try, I can't just throw it away on things that make me unhappy. I hope I exit this program guarding my time as closely as I do now.
+
+<b> Summary </b><br>
+Every week has its ups and downs. Part of being happy is learning to ride the wave and knowing that something good is just around the corner. Sometimes the something good is just a piece of chocolate, but hey, who's judging :)
+
+<b> Thanks </b><br>
+This week I've mostly been thankful for sleep. I wish I had something better, but sleep is so goddamn good.
+
