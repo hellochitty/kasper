@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Week 7: Workaholic"
+date:   2017-04-16 00:00:01
+categories: updates
+---
+
+Week 7 is over. We're done with ALL of the main material. The home stretch lies ahead as I begin my final project!
+
+<b> React/Redux </b><br>
+I started the week thinking that I would NEVER understand redux, and now at the end of the week, I'm starting to feel a lot more comfortable with it. Over the weeks, I've felt uncomfortable with various subjects, but this week has REALLY stretched me. Putting together ALL the moving parts we have learned over the past two weeks has been really taxing. 
+
+<b> Workaholic </b><br>
+I'm not even sure how many hours I put into App Academy related work this week. It has been INSANE. This weekend, I began work on my final project and just couldn't stop working on it.  have never worked this productively for SO MANY hours at a time. The hours just pass by so quickly and there's not a single minute where I'm checking facebook or even changing my playlist on spotify. The ease with which the hours slip by cements my belief that this is a path that I should be pursuing. 
+
+
+<b> Realizations </b><br>
+I realized this week that I'm really, really interested in design. App Academy did a (very) brief overview of design, and I was YEARNING to learn more. They mentioned that a good resource would be Steve Krug's "Don't Make Me Think" and having already read it, I felt like my interest in design was somehow legitimized(? idkidk). 
+
+I spent nearly all of Saturday on my mockups. We were told specifically NOT to do that, as design is not part of the course, but I couldn't help myself. I took time to pick out a typeface that I felt connected with my app. I then chose colors that would work well together, and captured the essence of what I'm trying to create. Then, I made mockups of every view and made flow charts of the interactions by looking at other sites that I think are particularly well designed. Scanning Google's material design docs also got me giddy. 
+
+On Sunday, I spent almost the entire day on designing all of the tables, mapping out the redux components, and generally thinking through how my app should be built. This was also strangely enjoyable. However, I did get more anxious when designing the innards of my app. There is SO much effort and planning that is going into this, and I want to make sure that everything is very well thought out. I guess I'm a little bit of a perfectionist after all. 
+
+Throughout the entire process, I caught myself also thinking about business models, monetization strategies, and potential marketing ideas for my idea. It feels incredibly natural to me to consider these things while creating an app. 
+
+Quite honestly, I think I'm once again getting to a place where I'm trying to do too much. I'm trying to pare it down and just stick to the programming until the end of this course. 
+
+I am taking note of this however, and I hope that when I do get a job, that there are opportunities to grow my interest /ability in all of these other areas too :)
+
+
+<b> Summary </b><br>
+This has been the week where I have learned the most and felt the dumbest. I also got to do work in areas that are side interests of mine, and that made me really happy and excited to work on my final project. I cannot wait to share it with all of you when I'm done!
+
+
+<b> Thanks </b><br>
+This week's thanks is to a certain turtle who is always incredibly supportive and nurturing, especially when I'm going crazy with cabin fever.
