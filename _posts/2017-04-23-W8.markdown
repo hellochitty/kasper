@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Week 8: Final Project"
+date:   2017-04-23 00:00:01
+categories: updates
+---
+
+Week 8 has been a mad dash. We finished our last (important) test and have been working on our projects non-stop since then.
+
+<b> React/Redux Update </b><br>
+Last week, I was still a bit uncomfortable with the react/redux workflow. Now it feels like second nature. React felt like a MOUNTAIN, but step-by-step, somehow I'm near the top and I'm in awe at how I got here. And to think, last week I thought it would get the best of me :)
+
+<b> Final Projects </b><br>
+I can see why entrepreneurs put in so many hours into their work. It's so easy to obsess about the project you see as your baby, wanting to make it perfect, useful, visually-stunning, amazing, functional, effective, efficient, tight etc. As a one-woman dev and design shop this week, I've really felt the pressure to perform. I have really high expectations for myself: to write great code, to have amazing visuals, and do it all very quickly. Unfortunately, all of that is not always possible, and something always falls at the wayside. 
+
+This past week, I've spent almost every waking minute either working on my project or thinking about it. I haven't yet found a way to get my mind off of it to relax for a few moments. It's becoming difficult to fall asleep unless I'm physically exhausted, and there were a few times this week I thought I was just going to lose it when a bug took too long to figure out or I had a git issue that I thought was catastrophic. 
+
+What really drives me, beyond wanting to have the most functionality (and being the best ever, duh), is that I really want to have my app hit the market after this. I think that this app could actually serve the needs of a currently under-served community. Mostly, it's something that I want to use myself!
+
+I'll share a link for my project with next week's post, so be on the lookout if you are reading this!
+
+<b> Summary </b><br>
+HELL YEAH FKING RIGHT. I'm getting through this, and I'm still having fun. Although setbacks often feel like the end of the world when working on my own project, I'm finding ways to push through and push harder. If I could find a way to truly relax, and take my mind off of work, that would be the greatest accomplishment. Cheers to always having goals!
+
+<b> Thanks </b><br>
+This week's thanks is to the MTA. Yes, yes, not my usually type of thanks, but I really had to say it. One day this week, I was stuck on the subway between stops for an hour and a half. While we were stopped, people were getting agitated and moaning constantly, because obviously, that would help the situation. One lady went as far as to say, "my 4 year old nephew could run the MTA better than these people!" I wasn't about to defend the MTA right then and there, but I truly feel thankful for it. There are numerous times when the subways have been late or delayed, but on the whole, I usually get to where I'm going on-time and safely. I love the subway, and I love public transportation. Bless all the people who work on providing these services.
