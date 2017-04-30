@@ -5,5 +5,20 @@ date:   2017-04-30 00:00:01
 categories: updates
 ---
 
-Week 9 was really taxing. Finishing my final project felt like a huge achievement, but it also marks the start of the job search period. One tough phase leads to the next. Bring it on. 
+Week 9 was incredibly taxing. Finishing my final project felt like a huge achievement, but it also marks the start of the job search period. One tough phase leads to the next. Bring it on. 
 
+<b> Final Project </b><br>
+
+If you're reading just to check-out what I made, please read the following before you explore:
+
+* It might seem funny to put profanity on the site, but please do not. This is a project that will hopefully be seen by recruiters when I'm trying to get a job. Please don't try and sabotage my chances!
+* Although the functionality exists to delete data, please refrain from doing so. It makes it quite annoying to have to re-seed the database all the time when people are deleting things.
+* Feel free to create your own profile, create sawces, checkins, and make comments on checkins!
+* If you find any bugs or site vulnerabilities, let me know instead of trying to exploit them. It will be a learning process for me to figure out how to fix them, and can be a learning process for you to teach me how :) 
+* The images have been taken from the internet and are for demo/educational purposes only. If you own one of these photos and need me to take it down, I'll be happy to do so. 
+* Have a fun time. 
+
+<b>Hawt Sawce</b>
+My project is a review/check-in site for hot sauces. It's surprising that nothing like this exists for one of the most well-liked condiments I know! The project is inspired by untappd (which is for beer).
+
+[Check it out!](hawt-sawce.herokuapp.com)
