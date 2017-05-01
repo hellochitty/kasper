@@ -18,7 +18,7 @@ If you're reading just to check-out what I made, please read the following befor
 * Feel free to create your own profile, create sawces, checkins, and make comments on checkins!
 * Have a fun time. 
 
-<b>Hawt Sawce</b>
+<b>Hawt Sawce</b><br>
 My project is a review/check-in site for hot sauces. It's surprising that nothing like this exists for one of the most well-liked condiments I know! The project is inspired by untappd (which is for beer).
 
 [Check it out!](http://www.hawtsawceapp.com/#/)
