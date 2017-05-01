@@ -13,12 +13,22 @@ If you're reading just to check-out what I made, please read the following befor
 
 * It might seem funny to put profanity on the site, but please do not. This is a project that will hopefully be seen by recruiters when I'm trying to get a job. Please don't try and sabotage my chances!
 * Although the functionality exists to delete data, please refrain from doing so. It makes it quite annoying to have to re-seed the database all the time when people are deleting things.
-* Feel free to create your own profile, create sawces, checkins, and make comments on checkins!
 * If you find any bugs or site vulnerabilities, let me know instead of trying to exploit them. It will be a learning process for me to figure out how to fix them, and can be a learning process for you to teach me how :) 
 * The images have been taken from the internet and are for demo/educational purposes only. If you own one of these photos and need me to take it down, I'll be happy to do so. 
+* Feel free to create your own profile, create sawces, checkins, and make comments on checkins!
 * Have a fun time. 
 
 <b>Hawt Sawce</b>
 My project is a review/check-in site for hot sauces. It's surprising that nothing like this exists for one of the most well-liked condiments I know! The project is inspired by untappd (which is for beer).
 
-[Check it out!](hawt-sawce.herokuapp.com)
+[Check it out!](http://www.hawtsawceapp.com/#/)
+
+I'll do a deep-dive into the app's creation at a later point on my [project blog](www.hahaha.cool), but the app was created using rails/postresql/react/redux. It was really special to me to make not only because this was the first real software app I created, but also being one that I designed myself. There were so many times during this process where I wished I just stuck with the instructions and made a direct clone of another app, but at the end of it, I'm really proud of taking on the design too. 
+
+<b> Classmates </b><br>
+The final project brought out everyone's true colors. It became really clear to me who I'd want to work with in the future. Beyond the sheer outcomes of the projects, people's attitudes were really telling of how they would perform in the workplace.On the whole, there were SO many impressive projects and people. Everyone really rose to the challenge and busted their asses to get all the MVP features into their projects. The most impressive however, were not people with really shiny demos with a ton of features, but those who you could tell really surprised themselves through this process. There were a few people who I was a little bit concerned about, going into a solo-project, but they REALLY pulled through and found things that they loved. I wish I was a recruiter and could hire some of these people :). It has been truly a joy to be around so many motivated people. 
+
+<b> Job Search </b><br>
+At the end of the Friday, we had our job search lecture- the mark of our entry into the job search curriculum. I can't believe it is already here. Our instructor put a few words up on the screen "You are a software developer" and exclaimed that our success on the job hunt was hinged on how much we truly believed those words. When he said that, I had a brief moment of panic. I don't believe it yet. My LinkedIn still says "Aspiring Developer" and obviously, that has to go. I'm not sure how to start believing, but I have to start now. I know that I'm doing a great job at the bootcamp, but in my mind, the benchmark is the student with the CS degree, and that's not me. Although many software engineers I know do not have that credential, I still find it hard to bucket myself with a group that I really respect. For now, my strategy will be to whisper to myself that I'm qualified, day in and day out until I believe it. I hope that something clicks. And here we are at impostor syndrome once again. PLEASE GO AWAY.
+
+
