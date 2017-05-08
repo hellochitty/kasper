@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Week 10: Turning 27"
+date:   2017-05-07 00:00:01
+categories: updates
+---
+I turned 27 at the end of week 10 and built my first JavaScript game. 27 is not what I imagined it to be, but I'm happy to be here.
+
+<b>27</b><br>
+27 always seemed like it was so far away. People who are 27 were always old adults in my mind. Until a few years ago, I assumed that by 27 I'd be settled in a career, have a house, be married, and thinking about having a kid within the next year. Reality is so different that it's almost comedic. I have no job, no kids, no house, no spouse, and surprisingly, I don't feel bad about it at all.
+Through the past few months, I've realized that I am the only one who can measure my life, and that I can only measure it by whatever metrics I choose. My younger self created a yardstick based on those whom I saw around me, and that yardstick held up for such a long time. When I quit my job, I took that yardstick, snapped it in half, and moved on. Currently, my only metrics are happiness, and willingness to try new things/learn. Measuring myself based on those, I think I'm doing pretty well.
+
+<b>JS Game</b><br>
+In less sappy news, I made [my first javascript game](http://legit.hahaha.cool/)! The concept was inspired by a game I used to play with my dad in the car as a child. He'd skip to a random song on a cassette and play a small snippet of a track, which I would then have to identify. It was so much fun, and I was really good at it :). The game I created integrates with the spotify api to play snippets of songs on your own playlists and asks you to identify them. The play levels go from pedestrian(5 seconds played) to masochistic(0.25 seconds played), and there are a few demo levels if you don't have a spotify account. [Play my game](http://legit.hahaha.cool/) to see if you're legit! The styling and a few features are not yet complete, but feel free to [take it for a whirl](http://legit.hahaha.cool/) anyway!
+
+More build details to come on my [project blog](http://www.hahaha.cool).
