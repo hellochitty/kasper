@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Week 11: How Not To Reverse a Linked List"
+date:   2017-05-14 00:00:01
+categories: updates
+---
+
+Week 11 was my worst week yet. Sometimes it's too exhausting to be brimming with hope and sunshine. The job search looms.
+
+I felt like a zombie throughout week 11. Everyday, I felt serious brain fog and self doubt. For the first time, I felt like I really lost my focus. The pending job search is weighing on me. I feel so much pressure to get a stellar job that's well beyond the average. I can't count the number of times I've been asked why I would leave a great job with a distinct career path where I got to work with people I liked.
+
+For the first 10 weeks, I was motivated by sheer interest, and unwavering hope. I was trying to develop a certain set of skills, and as lifelong learner, I felt like I was thriving. The competitive and seemingly endless job search has taken the fun out of things. Anecdote below:
+
+<b>Reversing a Linked List</b><br>
+I was feeling a bit distracted on Thursday, and decided to not do any of the assigned work in the morning and just work on some hackerrank problems instead. I came across a linked list problem, and seeing as the linked list and I became friends in week 2, I thought it would be a breeze. Here are the steps I took to reverse a linked list, with time taken in parenthesis:
+
+1. Read problem, notice that it's marked as being easy (1 min)
+2. Tell self it's easy (1 min)
+3. Feel brain go numb (10 min)
+4. Freak out (5 min)
+5. Write some sort of solution on paper (5 min)
+6. Feel brain go numb (part 2) (5 min)
+7. Go get lunch (15 min)
+8. Call dad on the way back (1 min)
+9. Explain to him that I am a complete idiot and probably shouldn't have done this because clearly I don't know anything (5 min)
+10. Listen to him as he tells me that I'll get it once I stop being so hard on myself (5 min)
+11. Tell myself that it's probably easy for him to say because he can reverse a linked list in his sleep (1 min)
+12. Indulge in some serious self loathing, because why not (5 min)
+13. Sulk and walk back to chair, pondering how I will be able to do this during an interview (5 min)
+14. Decide it's probably not worth it to reverse a linked list, but will try again anyway (1 min)
+15. Write solution on paper (3 min)
+16. Reverse linked list iteratively (4 min)
+17. Reverse linked list recursively, because why not at this point (3 min)
+
+On my LinkedIn or Angellist or whatever, I wrote that I try and meet every problem with a smile. Truth be told, I actually do. However, something about the pending job search is really throwing me off my game. Solving problems used to get me really excited- I'd hunch up in problem solving position with feet on my chair, turn up my music, and write little notes on my paper. I liked solving problems to a beat.
+
+I hope that today marks the last day of this slump. I want to subtract a little self loathing and add a little bit of fun.
