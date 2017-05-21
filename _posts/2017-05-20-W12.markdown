@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 12: a/A is Over!"
+date:   2017-05-14 00:00:01
+categories: updates
+---
+Week 12 was filled with many ups and downs. Completing 12 weeks at app academy felt like a mini victory, but it was overshadowed by the fact that I'm now in full job-search mode.
+
+<b>12 Week Summary</b><br>
+The biggest takeaway from my time at app academy is that one can learn and accomplish a lot in just 12 weeks. With determination, curiosity and direction it's relatively easy to be focused and become immersed in something new.
+
+Here are other things I learned:
+
+1. It's never too late to reinvent yourself. Really. You've got one life, and you can proactively make changes as and when you wish. All it takes is to be real with yourself, ask yourself what's holding you back, make a plan, and decide to move forward.
+2. There is something to learn from everyone.
+3. You don't have to like everyone/be liked by everyone.
+4. It's very important to stay true to yourself. If you're choosing to spend your time on something, it's best if that thing is something that motivates you.
+5. Listen to your body. If you feel tired, take rest. If you feel a surge of energy, spend it on something useful.
+6. Planning is key. Those who fail to plan, plan to fail. I truly believe it.
+7. Ask for help. There are people who are willing to help all around you, and sometimes all it takes is to just ask.
+8. Always be learning.
+9. If you feel overwhelmed, just do less. If you have 10 goals, just accomplish one at a time. Full attention is almost always better than half attention.
+10. Breathe, and relax. A lot of good things just take time.
+
+<b>Looking Ahead</b><br>
+It's time to get moving and get a job but it's also time to get started on my next project. I'm thinking I'll do something with React Native and/or websockets, or something with RaspberryPi (thanks Hannah!). Let me know if you think there are any other fun/interesting technologies out there to learn!
+
+<b>Thanks</b><br>
+This week's thanks is to a number of friends who've helped me out a ton this week.
+Kevin W- for looking over my entire resume and provided a ton of really helpful comments, but also for being a sounding board for a lot of my career decisions.
+Kevin C- for all of the resume comments, links to useful resources, and connections to other people
+James- for taking time on a Sunday to help me get in the right mindset to start interviewing
+Alexa- for spending time talking me through her perspective on how best to approach the job hunt
+Becca- for giving me so many helpful tips on how she approached her own job search, even though she has been slammed with work.
+Rhistina- for sending me great meetups to go to, and always checking in on me :)
