@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 12: a/A is Over!"
-date:   2017-05-14 00:00:01
+date:   2017-05-20 00:00:01
 categories: updates
 ---
 Week 12 was filled with many ups and downs. Completing 12 weeks at app academy felt like a mini victory, but it was overshadowed by the fact that I'm now in full job-search mode.
