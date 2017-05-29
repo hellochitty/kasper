@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Week 13: The Job Search"
+date:   2017-05-28 00:00:01
+categories: updates
+---
+Week 13 was the first week of job search. I'm trying to find a rhythm to stick to, and find something enjoyable to do every day. The stress is high, and my self-expectations are even higher.
+
+<b>Thoughts</b><br>
+The week started out kind of rough. On any given day, I want to accomplish all of the following:
+1. Apply to jobs
+2. Practice algorithms/ Interview prep
+3. Work on projects
+4. Polish existing material
+5. Talk to people in the industry
+
+As a more junior software engineer, it's essentially a numbers game to get the first few interviews(without referrals), and thus my focus at the start of the week was just on getting out job apps. Writing app after app gets incredibly depressing after a while. Will people even read this? If they did read it, have I positioned myself correctly? Will they call back? Are they even interested in getting to know me? Having these thoughts circulating in my mind all day, every day made me feel sad.
+
+The one saving grace this week was actually a coding challenge I received. The challenge was to build an app in react with redux, and I was so excited to flex my coding muscles. I spent a ton of time on it, paying attention to every detail- both on the front-end and in code. After working on it, I was reminded of why I did this in the first place. My mood was higher than ever. I love to code. Unfortunately, the job application process is not fun, but it's the means to an end that I'm very, very excited about.
+
+My takeaway from this week is to WRITE MORE CODE.
+
+<b>Fear</b><br>
+It's really easy to sense the fear and anxiety around the app academy office. It's understandable as we are all similar situations. This week, I tried to distill what my source of fear is.
+
+My fear is that I will let myself down, and know deep-down that there are steps I could have taken to change the outcome. It's one thing to be powerless and fail, but another to have tools and time, and still have a bad outcome. I can remember a few times throughout life that I've let others down, and those times sting when I think of them. The times that I let myself down, however, BURN to think about. Those are the memories in life I still struggle to get over. I don't want to repeat the past.
+
+<b>Looking Forward</b><br>
+Last week was suboptimal, but this week doesn't have to be. I'm making some micro-adjustments to my planning this week to position myself for success. The first is to create daily goals to meet so that I have something discrete that I'm working towards every single day. The second is to workout more.
+
+I'm focusing all my energy on looking and moving forward.
+
+<b>Thanks</b><br>
+This week's thanks is to more friends who've helped me out this week.
+
+- Jiaqi- Thank you for reaching out a few weeks back and helping me feel not so alone. Also thanks for taking time out of your day to chat with me! Your insights and support are always helpful.
+- Raghu- Thanks for reminding me that many people face imposter syndrome. Thanks also for running through some problems with me and explaining how I should approach things. Knowing that you're on my side makes me feel like I can actually get through this!
+- Brian- Thank you for reading and responding to my blog posts, but mostly, a huge thank you for sharing your story with me and providing me with a lot of advice. You reminded me that I'm on the right path, and for that, I'm incredibly grateful.
+- Dan- You're always so awesome with advice, and this time it is especially useful. Thanks for reviewing my job search strategy with me, and reminding me that what I'm trying to achieve is actually very possible. Thanks also for volunteering to help prep me for interviews!
