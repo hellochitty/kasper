@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 14: The Job Search"
+date:   2017-06-04 00:00:01
+categories: updates
+---
+
+Week 14 marks the second week of the job search. I'm finally feeling confident in my abilities. The unknown is still scary though. It still feels like I'm walking into the dark, but I've seen some light this past week. Happily moving forward.
+
+
+<b>Thoughts</b><br>
+As much as I'd like to share the positive things that happened on the job hunt last week, I'll resist from sharing stats/details/exact experiences until the job hunt is over. I'm collecting a ton of data on my job hunt process though, so I'm going to be really excited to share that when I'm (finally) done!
+
+The most amazing part of this week was to see so many people getting bites from potential employers. From phone screens, to coding challenges, to onsites, things are moving for a lot of my fellow students, and it's all giving me tremendous hope. A fellow student even received an offer last week, and it was an exciting reminder for all of us that this will all be worth it.
+
+The highlight of the job search experience so far is that there are SO MANY COOL COMPANIES OUT THERE, and SO MANY OF THEM are hiring software engineers. I used to struggle with finding relevant openings at companies that I liked, but now it feels like the whole world is my oyster.
+
+BUT, NOT SO FAST. The lowlight is that the whole world is not exactly my oyster YET. Although a ton of companies are hiring for software engineers, not all of them want 'junior engineers' as I've had repeated to me so many times. I really hate that term, but maybe it's for the sole reason that usually it's used in the context of someone telling me why they can't move forward with my application. Okay yes, my coding skills beyond HTML/CSS/JS have been acquired somewhat recently, but my ability to deliver value while maintaining enthusiasm, problem solve, and be generally quite awesome have been proven time and time again, for many years. Explaining my background has been draining.
+
+I know I can be a practicing software engineer, and a good one at that. I know I will bring my passion for people and organization with me while I continue work hard to build on all of my skills. I will find a way to express my design sensibilities, and fill gaps in my knowledge.
+
+For the first time in the past weeks, I feel confident that I will be able to do all of this and more. What remains is to find someone who also believes these same things about me- a someone who is willing to do a few more code reviews because of my 'junior' software skills, but also someone who is willing to respect where I come from, and understand what I'm capable of.
+
+Finding a job is just another problem to solve on this path, and I'm still optimistic that the good things that I seek may not be as far away as they seem.
