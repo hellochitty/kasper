@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Week 15: Light"
+date:   2017-06-11 00:00:01
+categories: updates
+---
+
+Week 15 was the third week of the job search. I'm making serious progress!
+
+
+<b>Thoughts</b><br>
+From: 'No Church in the Wild', Watch The Throne by Jay Z & Kanye West
+> Two tattoos: one read "No Apologies"
+> The other said "Love is Cursed by Monogamy"
+
+This week got me feeling like I want to get the same tattoos as the above lyrics, but with a slight modification:
+> Two tattoos: one read "No Apologies"
+> The other said "Life is Cursed by Anxiety"
+
+Things went well this week, but I'll once again refrain from disclosing too much until I make the important decisions that need to be made.
+
+One of the highlights of this week was actually a really thoughtful rejection message I got. I cold emailed someone at a company that seemed awesome and had a well designed site. I wasn't hoping for a response, as most cold emails go unanswered, but this is what I received.
+
+>Thank you for your interest in working at [redacted].  I am always happy to see a Columbia alumnus apply, however we have made the decision not to move forward at this time.  I looked through a lot of your online presence and was really impressed by your coding progress (and your blog was a really good window into your thoughtfulness).  Unfortunately, at our size we have neither the bandwidth nor mentorship to grow you into a web developer.  I sincerely hope you find an engineering role that you're excited about at a company that can adequately support you.
+
+After receiving standard "Thank you for your interest" rejections, it was really nice to receive one from someone who had clearly considered me. Since the hiring manager responded to me, I emailed him back asking for advice on how I could approve. He responded again(!!!) and told me to work on one good project that most accurately reflects my coding abilities so that a hiring manager could look through just one, really good piece of work.
+
+For those of us who are in the job search process, this is a clear sign of hope. Someone from an awesome startup not only took the time to review my profile, but also to send me 2 responses and advice. Sure this interaction ended in rejection, but I'm not sad because I got a ton out of it! The interviewing process is all about iterating, so let's keep moving!
+
+<b>Thanks</b><br>
+* Natalia - Thank you for sending me so many good people to talk to, not just about the job hunt but also about transitioning into a full-time software engineering role.
+* Dan - Thanks for taking so much time out of your day to do a mock-interview, and a debrief. I cannot tell you how much I appreciate this. Thanks also for being a sounding board re: job stuff in general.
+* Ben - Thanks for meeting up with me to describe your own experiences at a/A! It was a great opportunity for me to collect more data points about how this job search looked for others before me.
+* Sweta - Thank you for being the person I go to whenever I have any feelings about job hunting. I have so many feelings, so thank you for listening and being supportive through this whole process.
+* Bethany - Thanks for being a wonderful a/A mentor and being there for me when I'm looking for advice :D
