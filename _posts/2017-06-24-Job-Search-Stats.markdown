@@ -12,13 +12,11 @@ Things to note:
 * I collected 2 types of data: application stats, and time spent on various job app activities (I tracked my time using Toggl)
 * Unless specified, the stats do not show which opportunities I did not pursue. For example, if I got a coding challenge, and did not do it, I did not include it.
 
-Overall Application Lifecycle Stats
-<div>
-    <a href="https://plot.ly/~chithra.venkatesan/3/?share_key=07vW0MS24YhNP02JdIFVy7" target="_blank" title="Plot 3" style="display: block; text-align: center;"><img src="https://plot.ly/~chithra.venkatesan/3.png?share_key=07vW0MS24YhNP02JdIFVy7" alt="Plot 3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="chithra.venkatesan:3" sharekey-plotly="07vW0MS24YhNP02JdIFVy7" src="https://plot.ly/embed.js" async></script>
-</div>
+Findings:
+* Volume is important. Most places I applied to never responded.
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chithra.venkatesan/3.embed"></iframe>
 
-Offers vs. Application Type
+* Cold emailing works
 <div>
     <a href="https://plot.ly/~chithra.venkatesan/5/?share_key=ZuSonf2E1IMiJHBrQOxHXv" target="_blank" title="Plot 5" style="display: block; text-align: center;"><img src="https://plot.ly/~chithra.venkatesan/5.png?share_key=ZuSonf2E1IMiJHBrQOxHXv" alt="Plot 5" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="chithra.venkatesan:5" sharekey-plotly="ZuSonf2E1IMiJHBrQOxHXv" src="https://plot.ly/embed.js" async></script>
