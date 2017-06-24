@@ -14,7 +14,7 @@ Things to note:
 
 Findings:
 * Volume is important. Most places I applied to never responded.
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chithra.venkatesan/3.embed"></iframe>
+<iframe width="450" height="400" frameborder="0" scrolling="no" src="//plot.ly/~chithra.venkatesan/3.embed"></iframe>
 
 * Cold emailing works
 <div>
