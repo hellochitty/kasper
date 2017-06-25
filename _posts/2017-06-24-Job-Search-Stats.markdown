@@ -22,7 +22,7 @@ __Stats:__
 * Coding challenges are a very practical way to show your skills. If a company you love gives you a coding challenge, SPEND TIME ON IT. With that being said, it's important to find a balance in the job search and spending significant time on ALL activities.
 <iframe width="450" height="400" frameborder="0" scrolling="no" src="//plot.ly/~chithra.venkatesan/7.embed"></iframe>
 
-__Advice:__
+__Advice:__ <br>
 _Applying_
 1. The spray and pray method (extreme volume applying) did not work for me, however, you DO need to send out a lot of applications since it is a numbers game since you can't control if/when your application materials will be seen on the other side.
 2.  For companies you'd love to work at, write cover letters and emails from scratch- that means NO TEMPLATES. Sure it takes a hell of a lot more time to do it, but in the chance that people DO read your cover letter, it will fare better if it reads as genuine. I spent a LOT of time writing cover letters to places I wanted to work at, and every time I got a response from someone, it was VERY clear that they actually read my cover letter. If someone is going to read something you wrote, write something worth reading.
@@ -43,7 +43,7 @@ _Coding Challenges_
 1.  For coding challenges, have a solid commit history and a thorough readme. The readme is a great place to note features you didn't get to. Even if they don't ask for a hosted version of the challenge, provide one anyway.  
 2.  Be careful with commenting, try and make the code readable and intuitive without excessive commentary.
 3.  Be thorough, are you using ES6? If so, are you using a transpiler? Small details matter.
-4.  Write clean code. One of my last commits in every project is something like "Clean Ip code." I always do a pass over all files in order to make sure all the details are perfect.
+4.  Write clean code. One of my last commits in every project is something like "Clean Up code." I always do a pass over all files in order to make sure all the details are perfect.
 5.  Be prepared to explain ALL design decisions. Frameworks, ES-whatever, file/folder structure, method/variable naming, CSS decisions, etc are ALL fair game. I've been asked about ALL of the above in interviews.
 6.  Use the Coding Challenge as a chance to judge the company which sent you it. A coding challenge might be an indication of how well you might like a role, and/or how thoughtful people at a company are. Do they force you to use a particular technology? Are their mockups well made? Do they provide you enough information to get started? Do they give you an adequate amount of time to finish the assignment? These are all things to consider.
 
@@ -52,7 +52,7 @@ _Negotiation_
 
 _Choosing an Offer_
 1.  Create a spreadsheet with a side-by-side comparison of what various companies are offering you. Make sure to include areas to fill out feelings.
-![Offer Comparison]({{ site.url }}/assets/offer-comparison.png)
+![Offer Comparison]({{ site.url }}/img/offer-comparison.png)
 2.  Talk to people inside and outside the industry. People within the industry will give you an idea of what to look for and red flags to watch out for. People outside the industry can give you an outsiders perspective, but also just tips on how to find a suitable workplace.
 3.  Think back to how excited you were to apply. Is there a reason you applied to this company in the first place?
 4.  Balance thoughts of short term and long term. In the short time you need to learn, and learn in a supportive environment. However, the first company you go to does not have to be the place you work at for the next 5 years. Optimize for what is realistic.
