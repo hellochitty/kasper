@@ -52,7 +52,7 @@ _Negotiation_
 
 _Choosing an Offer_
 1.  Create a spreadsheet with a side-by-side comparison of what various companies are offering you. Make sure to include areas to fill out feelings.
-![Offer Comparison]({{ site.url }}/img/offer-comparison.png)
+![Offer Comparison]({{ site.url }}/assets/images/offer-comparison.png)
 2.  Talk to people inside and outside the industry. People within the industry will give you an idea of what to look for and red flags to watch out for. People outside the industry can give you an outsiders perspective, but also just tips on how to find a suitable workplace.
 3.  Think back to how excited you were to apply. Is there a reason you applied to this company in the first place?
 4.  Balance thoughts of short term and long term. In the short time you need to learn, and learn in a supportive environment. However, the first company you go to does not have to be the place you work at for the next 5 years. Optimize for what is realistic.
